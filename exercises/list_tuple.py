@@ -1,0 +1,5 @@
+data = input("Enter data values followed by comma: ")
+lists = list(data.split(','))
+tuples = tuple(lists)
+print('List: ', lists)
+print('Tuple: ', tuples)
