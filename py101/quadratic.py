@@ -1,6 +1,7 @@
 # A program that computes value of x using the famous quadratic equation
 # Using the math lib
 import math
+import random
 def main():
     print("This program finds the solution of a quadratic expression")
     a = float(input("Enter coefficient a: "))
